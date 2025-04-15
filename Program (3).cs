@@ -19,7 +19,7 @@ namespace MyApplication
 
         public void calculate_price()
         {
-            if ((type.ToLower()) == "kids")
+            if ((type.ToLower()) == "adult")
             {
                 if ((jersey.ToLower()) == "yes")
                 {
